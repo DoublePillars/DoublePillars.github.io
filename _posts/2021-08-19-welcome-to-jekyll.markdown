@@ -1,29 +1,42 @@
----
-layout: post
-title:  "中华人民共和国万岁！世界民族大团结万岁！"
-date:   2021-08-19 14:12:06 +0800
-categories: jekyll update
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+---<br>
+layout: post<br>
+title:  "中华人民共和国万岁！世界民族大团结万岁！"<br>
+=======================================================<br>
+全国同胞们:<br>
+中国人民政治协商会议第一届全体会议业已胜利地完成了自己的任务。<br>
+这次会议，包含了全中国所有的民主党派、人民团体、人民解放军、各地区、各民族、国外华侨和其他爱国民主分子的代表，代表了全国人民的意志，表现了全国人民的空前的大团结。<br>
+这种全国人民的大团结，是中国人民和人民解放军在中国共产党领导之下，经过长期的英勇奋斗，战胜了美帝国主义援助的蒋介石国民党反动政府之后所获得的。一百多年以来，中国人民的先进分子，其中杰出者有如领导辛亥革命的伟大革命家孙中山先生，为了推翻帝国主义和中国反动政府的压迫，领导广大的人民，进行了不断的斗争，百折不挠，再接再厉，终于达到了目的。当着我们举行会议的时候，中国人民已经战胜了自己的敌人，改变了中国的面貌，建立了中华人民共和国。我们四万万七千五百万中国人是站立起来了，我们民族的前途是无限光明的。<br>
+在人民领袖毛泽东主席领导之下，我们的会议齐心一志，按照新民主主义的原则，制定了中国人民政治协商会议组织法，制定了中华人民共和国中央人民政府组织法，制定了中国人民政治协商会议共同纲领，决定了中华人民共和国定都于北京，制定了中华人民共和国的国旗为五星红旗，采用了义勇军进行曲为现时的国歌，决定了中华人民共和国的纪年采用世界公元，选举了中国人民政治协商会议全国委员会，选举了中华人民共和国中央人民政府委员会。中国的历史，从此开辟了一个新的时代。<br>
+全国同胞们，中华人民共和国现已宣告成立，中国人民业已有了自己的中央政府。这个政府将遵照共同纲领在全中国境内实施人民民主专政。它将指挥人民解放军将革命战争进行到底，消灭残余敌军，解放全国领土，完成统一中国的伟大事业。它将领导全国人民克服一切困难，进行大规模的经济建设和文化建设，扫除旧中国所留下来的贫困和愚昧，逐步地改善人民的物质生活和提高人民的文化生活。它将保卫人民的利益，镇压一切反革命分子的阴谋活动。它将加强人民的陆海空军，巩固国防，保卫领土主权完整，反对任何帝国主义国家的侵略。它将联合一切爱好和平自由的国家、民族和人民，首先是联合苏联和各新民主国家，以为自己的盟友，共同反对帝国主义者挑拨战争的阴谋，争取世界的持久和平。<br>
+全国同胞们，我们应当进一步组织起来。我们应当将全中国绝大多数人组织在政治、军事、经济、文化及其他各种组织里，克服旧中国散漫无组织的状态，用伟大的人民群众的集体力量，拥护人民政府和人民解放军，建设独立民主和平统一富强的新中国。<br>
+为人民解放战争和人民革命而牺牲的人民英雄们永垂不朽!<br>
+中国人民大团结万岁!<br>
+中华人民共和国万岁!<br>
+中央人民政府万岁!<br>
+date:   2021-08-19 14:12:06 +0800<br>
+categories: jekyll update<br>
+---<br>
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.<br>
+<br>
+Jekyll requires blog post files to be named according to the following format:<br>
+<br>
+`YEAR-MONTH-DAY-title.MARKUP`<br>
+<br>
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.<br>
+<br>
+Jekyll also offers powerful support for code snippets:<br>
+<br>
+{% highlight ruby %}<br>
+def print_hi(name)<br>
+  puts "Hi, #{name}"<br>
+end<br>
+print_hi('Tom')<br>
+#=> prints 'Hi, Tom' to STDOUT.<br>
+{% endhighlight %}<br>
+<br>
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].<br>
+<br>
+[jekyll-docs]: https://jekyllrb.com/docs/home<br>
+[jekyll-gh]:   https://github.com/jekyll/jekyll<br>
+[jekyll-talk]: https://talk.jekyllrb.com/<br>
+<br>
