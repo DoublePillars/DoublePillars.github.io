@@ -15,28 +15,3 @@ title:  "中华人民共和国万岁！世界民族大团结万岁！"<br>
 中央人民政府万岁!<br>
 date:   2021-08-19 14:12:06 +0800<br>
 categories: jekyll update<br>
----<br>
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.<br>
-<br>
-Jekyll requires blog post files to be named according to the following format:<br>
-<br>
-`YEAR-MONTH-DAY-title.MARKUP`<br>
-<br>
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.<br>
-<br>
-Jekyll also offers powerful support for code snippets:<br>
-<br>
-{% highlight ruby %}<br>
-def print_hi(name)<br>
-  puts "Hi, #{name}"<br>
-end<br>
-print_hi('Tom')<br>
-#=> prints 'Hi, Tom' to STDOUT.<br>
-{% endhighlight %}<br>
-<br>
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].<br>
-<br>
-[jekyll-docs]: https://jekyllrb.com/docs/home<br>
-[jekyll-gh]:   https://github.com/jekyll/jekyll<br>
-[jekyll-talk]: https://talk.jekyllrb.com/<br>
-<br>
